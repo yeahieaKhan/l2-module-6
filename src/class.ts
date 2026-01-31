@@ -13,3 +13,5 @@ class Animal {
 
 const dog = new Animal("dogesh vai ", "dog", "ghew ghew");
 console.log(dog.name)
+
+
